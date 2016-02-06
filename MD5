@@ -1,0 +1,16 @@
+a6a24316e37d9a02ac2b3454d41c4730 *DESCRIPTION
+a842f8c10c9e4e1a730e42bd2d9309b8 *NAMESPACE
+e4226816a2ab414909bfba21d6a3538e *R/Nonparametric_functions.R
+661f8ff5bde10c9cf2ac48f712b06baa *R/Parametric_functions.R
+a12687eae004d313a284fd863723dc3c *R/Utility_functions.R
+b831f0edb4f3d4e9b936a6ba7b81b5a6 *man/Ashmans_D.Rd
+da87b798890a51fa763fd82a383bfa57 *man/amps.Rd
+3929f3e779c599c4904e72e82178998e *man/bimodality_amplitude.Rd
+ef50e63c6361a3260c33ab8005211dce *man/bimodality_coefficient.Rd
+82b26d26f653f97ddb0af4434ba6f6a8 *man/bimodality_ratio.Rd
+917702311cc9e91f1b3eb5e73df4ab83 *man/bimodality_separation.Rd
+2a1cfcf2d8b67fd8a117aafec79c091e *man/kurtosis.Rd
+44b3e5d7c3ec8e97bb69b22d3f420aea *man/mode.Rd
+9eb53984ce4c43b8fcf7f86fa46cbd8c *man/modes-package.Rd
+9b3a92c0ba77ceb0bca9deb19fa7fe0e *man/nth_highest.Rd
+408f2444bfa9699b7a7641bce43ed45e *man/skewness.Rd
