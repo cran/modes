@@ -19,8 +19,8 @@ after removing (n-1) higher numbers (maxes).
 Note that k=1 yields the traditional global maximum.
 }
 \examples{
-#data<-c(rnorm(15,0,1),rnorm(21,5,1))
-#nth_highest(data,2)
+data<-c(rnorm(15,0,1),rnorm(21,5,1))
+nth_highest(data,2)
 }
 \keyword{Global}
 \keyword{Local}

@@ -25,8 +25,8 @@ two point masses.
 }
 \examples{
  data<-c(rnorm(15,0,1),rnorm(21,5,1))
-# hist(data)
-# bimodality_coefficient(data,TRUE)
+ hist(data)
+ bimodality_coefficient(data,TRUE)
 }
 \references{
 Ellison, A. (1987). Effect of Seed 

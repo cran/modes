@@ -29,8 +29,8 @@ cases.
 }
 \examples{
 data<-c(rnorm(15,0,1),rnorm(21,5,1))
-#hist(data)
-#kurtosis(data,TRUE)
+hist(data)
+kurtosis(data,TRUE)
 }
 \keyword{moment}
 

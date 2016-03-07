@@ -19,8 +19,8 @@ for practical purposes, double checking the global minimum is
 good practice. Just run ("min(x))")
 }
 \examples{
-#data<-c(rnorm(15,0,1),rnorm(21,5,1))
-#amps(data)
+data<-c(rnorm(15,0,1),rnorm(21,5,1))
+amps(data)
 }
 \keyword{Amplitude,}
 \keyword{Antimode,}

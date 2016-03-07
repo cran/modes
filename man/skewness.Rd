@@ -18,9 +18,9 @@ distrbution. A negative skewness means the data is left skewed or
 has a fat left tail. The converse is true for a positive skew.
 }
 \examples{
-#data<-c(rnorm(15,0,1),rnorm(21,5,1))
-#hist(data)
-#skewness(data,TRUE)
+data<-c(rnorm(15,0,1),rnorm(21,5,1))
+hist(data)
+skewness(data,TRUE)
 }
 \keyword{moment}
 
